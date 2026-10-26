@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3
+*.db
+.env
+.venv/
+env/
+venv/
+.streamlit/secrets.toml
+uploads/*
+!uploads/.gitkeep
+data/*
+!data/.gitkeep
+.DS_Store
